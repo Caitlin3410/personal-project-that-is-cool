@@ -1,1 +1,1 @@
-# personal-project-that-is-cool
+# personal-project
